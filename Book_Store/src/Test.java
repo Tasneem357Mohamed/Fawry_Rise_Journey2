@@ -84,7 +84,7 @@ public class Test
                    String enter;
                    while(true)
                    {
-                       System.out.println("Do you want to buy another book?");
+                       System.out.println("Do you want to add another book?");
                        System.out.println("================================");
                        System.out.println("User Answer: ");
                        enter  = scanner.nextLine();

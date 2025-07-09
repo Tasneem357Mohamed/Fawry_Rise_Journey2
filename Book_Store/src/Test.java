@@ -121,9 +121,9 @@ public class Test
             }
             else
             {
-                Book found = null;
                 while(true)
                 {
+                    Book found = null;
                     while(true)
                     {
                         System.out.println("Enter ISBN of Book to buy:");
